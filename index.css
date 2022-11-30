@@ -51,7 +51,7 @@ main{
    background-size: cover;
    background-position: center;
    /* border-radius: 25%; */
-   /* opacity: 0.80; */
+   opacity: 0.75;
 }
 .img{
     display: flex;
